@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">Calculator</string>
+    <string name="hint_number">number</string>
+    <string name="hint_result">result</string>
+    <string name="radio_plus">+</string>
+    <string name="radio_minus">-</string>
+    <string name="radio_mul">*</string>
+    <string name="radio_div">/</string>
+    <string name="equals">=</string>
+    <string name="switch_store_history">Store history</string>
+    <string name="button_show_history">Show history</string>
 </resources>
